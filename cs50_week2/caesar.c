@@ -1,9 +1,11 @@
+//Libraries to be included
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
 
-
+// main function
 int main(int argc, string argv[])
 {
     int length = 0, i = 0, key = 0, str_length = 0;
